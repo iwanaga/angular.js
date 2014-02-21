@@ -205,6 +205,11 @@ pre {
   font-size:18px;
 }
 
+p {
+  color: #5A5A5A;
+  font-size: 16px;
+}
+
 p > code,
 code.highlighted {
   background:#f4f4f4;
